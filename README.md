@@ -1,7 +1,10 @@
-안녕하세요. dasolit 입니다. 👋
-
-🛠 Tech Stack 🛠
-
+<p align='center'>
+   안녕하세요. dasolit 입니다. 👋
+<p/
+   
+<p align='center'>
+   🛠 Tech Stack 🛠
+</p>
 <p align='center'>
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a>&nbsp
