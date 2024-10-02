@@ -1,10 +1,14 @@
+<h2>💻 안녕하세요. 백엔드 개발자 dasolit 입니다. 👋</h2>
+<hr/>
 <p align='center'>
-   안녕하세요. dasolit 입니다. 👋
-<p/
+   <ul>
+      <li>새로운 무언가를 배우기 좋아하고 그것을 기록하는 과정에서 성취감을 느낍니다.</li>
+      <li>커피를 마시며 서로의 생각을 공유하는 것을 좋아합니다.</li>
+      <li>읽기 쉽고 중복되지 않으며 깔끔한 코드를 작성하기 위해 노력합니다.</li>
+   </ul>
+<p/>
    
-<p align='center'>
-   🛠 Tech Stack 🛠
-</p>
+<h2>🛠 Tech Stack 🛠</h2>
 <p align='center'>
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/></a>&nbsp
