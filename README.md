@@ -33,8 +33,3 @@
 <p align='center'>
    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdasolit&label=&icon=github&color=%23198754" />
 </p>
-
-
-<div align='center'>
-   ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdasolit&label=&icon=github&color=%23198754)
-</div>
