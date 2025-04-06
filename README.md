@@ -31,5 +31,13 @@
 </p>
 
 <p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=dasolit&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=dasolit&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/dasolit/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasolit&layout=compact"/></a>
+</p>
+
+<p align='center'>
    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdasolit&label=&icon=github&color=%23198754" />
 </p>
